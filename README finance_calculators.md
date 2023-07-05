@@ -17,3 +17,24 @@ git clone https://github.com/humbertoangeli/finalCapstone
 ```bash
 py finance_calculators.py
 ```
+## Usage
+
+- When the program starts, a screen with the following menu will appear:
+
+![email01](blob/financel01.png)
+
+- As an example, type 'investment' to simulate a calculation with the following parameters showing on the image below (simple rate method):
+
+![email01](blob/finance02.png)
+
+- As another example, type 'investment' to simulate a calculation with the following parameters showing on the image below (compound rate method):
+
+![email01](blob/finance03.png)
+
+- On the last example, type 'bond' to simulate an installment like the image below:
+
+![email01](blob/finance04.png)
+
+## Credits
+
+Humberto de Angeli, HyperionDev Team
