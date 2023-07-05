@@ -1,4 +1,4 @@
-# finance_calculators.md
+# finance_calculators project
 
 ## This program does some financial calculations
 
