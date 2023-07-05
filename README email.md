@@ -30,6 +30,8 @@ py email.py
 
 ![email01](blob/email03.png)
 
+- The second option of the main menu will show the mails unread:
 
+![email01](blob/email04.png)
 
 
