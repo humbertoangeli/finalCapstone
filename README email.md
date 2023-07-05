@@ -17,3 +17,11 @@ git clone https://github.com/humbertoangeli/finalCapstone
 ```bash
 py email.py
 ```
+
+- A screen with the following menu will appear:
+
+![email01](blob/email01.png)
+
+- Type 1 for the first option and the following menu will appear:
+
+- 
