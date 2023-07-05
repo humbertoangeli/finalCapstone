@@ -1,4 +1,4 @@
-# task_manager.py
+# task_manager project
 
 ## This program is a capstone of the Hyperion BootCamp. It is a task manager with options for creating a task and editing with user control. Both users and tasks are recorded in a text file.
 
