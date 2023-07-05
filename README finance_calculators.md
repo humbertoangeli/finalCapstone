@@ -21,19 +21,19 @@ py finance_calculators.py
 
 - When the program starts, a screen with the following menu will appear:
 
-![email01](blob/financel01.png)
+![finance01](blob/finance01.png)
 
 - As an example, type 'investment' to simulate a calculation with the following parameters showing on the image below (simple rate method):
 
-![email01](blob/finance02.png)
+![finance02](blob/finance02.png)
 
 - As another example, type 'investment' to simulate a calculation with the following parameters showing on the image below (compound rate method):
 
-![email01](blob/finance03.png)
+![finance03](blob/finance03.png)
 
 - On the last example, type 'bond' to simulate an installment like the image below:
 
-![email01](blob/finance04.png)
+![finance04](blob/finance04.png)
 
 ## Credits
 
