@@ -14,27 +14,27 @@ git clone https://github.com/humbertoangeli/finalCapstone
 
 - Run the program with the command:
 ```bash
-py finance_calculators.py
+py task_manager.py
 ```
 ## Usage
 
-- When the program starts, a screen with the following menu will appear:
+- When the program starts, a login screen will appear (use the default username: **admin** and default password: **password**):
 
 ![finance01](blob/task01.png)
 
-- As an example, type **'investment'** to simulate a calculation with the following parameters showing on the image below (simple rate method):
+- The first option you can add an user, like the screen below:
 
 ![finance02](blob/task02.png)
 
-- As another example, type **'investment'** to simulate a calculation with the following parameters showing on the image below (compound rate method):
+- To add a task, use the option **a** like below:
 
 ![finance03](blob/task03.png)
 
-- On the last example, type **'bond'** to simulate an installment like the image below:
+- The **va** option shows all the registered tasks:
 
 ![finance04](blob/task04.png)
 
-- On the last example, type **'bond'** to simulate an installment like the image below:
+- The **vm** option shows all the registered tasks for the logged user:
 
 ![finance04](blob/task05.png)
 
