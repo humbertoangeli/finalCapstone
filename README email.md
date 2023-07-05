@@ -24,4 +24,6 @@ py email.py
 
 - Type 1 for the first option and the following menu will appear:
 
-- 
+![email01](blob/email01.png)
+
+
