@@ -38,11 +38,11 @@ py task_manager.py
 
 ![finance04](blob/task05.png)
 
-- On the last example, type **'bond'** to simulate an installment like the image below:
+- You can choose a task and edit it by marking it complete or change it completely:
 
 ![finance04](blob/task06.png)
 
-- On the last example, type **'bond'** to simulate an installment like the image below:
+- The **gr** option creates a statistic file about the current state of the tasks. Use the option **ds** to show that report:
 
 ![finance04](blob/task07.png)
 
