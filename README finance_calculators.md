@@ -23,15 +23,15 @@ py finance_calculators.py
 
 ![finance01](blob/finance01.png)
 
-- As an example, type 'investment' to simulate a calculation with the following parameters showing on the image below (simple rate method):
+- As an example, type **'investment'** to simulate a calculation with the following parameters showing on the image below (simple rate method):
 
 ![finance02](blob/finance02.png)
 
-- As another example, type 'investment' to simulate a calculation with the following parameters showing on the image below (compound rate method):
+- As another example, type **'investment'** to simulate a calculation with the following parameters showing on the image below (compound rate method):
 
 ![finance03](blob/finance03.png)
 
-- On the last example, type 'bond' to simulate an installment like the image below:
+- On the last example, type **'bond'** to simulate an installment like the image below:
 
 ![finance04](blob/finance04.png)
 
