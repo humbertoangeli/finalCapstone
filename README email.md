@@ -18,6 +18,8 @@ git clone https://github.com/humbertoangeli/finalCapstone
 py email.py
 ```
 
+## Usage
+
 - A screen with the following menu will appear:
 
 ![email01](blob/email01.png)
@@ -29,6 +31,10 @@ py email.py
 - After the email content will appear and it will be marked as read.
 
 ![email01](blob/email03.png)
+
+## Credits
+
+Humberto de Angeli, HyperionDev Team
 
 - The second option of the main menu will show the mails unread:
 
