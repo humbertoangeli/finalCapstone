@@ -26,4 +26,10 @@ py email.py
 
 ![email01](blob/email02.png)
 
+- After the email content will appear and it will be marked as read.
+
+![email01](blob/email03.png)
+
+
+
 
